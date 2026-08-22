@@ -7,7 +7,7 @@ cask "zte-menu" do
   desc "Menu bar app showing ZTE U50 5G modem status"
   homepage "https://github.com/RadnoK/zte-menu"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "ZTE Menu.app"
 
