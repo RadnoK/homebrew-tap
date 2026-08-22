@@ -9,6 +9,8 @@ cask "zte-menu" do
 
   depends_on macos: :sonoma
 
+  auto_updates true
+
   app "ZTE Menu.app"
 
   zap trash: [
