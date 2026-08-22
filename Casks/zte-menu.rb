@@ -1,6 +1,6 @@
 cask "zte-menu" do
-  version "0.4.0"
-  sha256 "9e90d922ba44f93c97318031226bfbdb3bf3838028351f7a4166ce2d5ef9a34e"
+  version "0.4.1"
+  sha256 "97cef11cae1ac4834b2d7403c3f29957be9405a69276b0ecfb54f040bc04b543"
 
   url "https://github.com/RadnoK/zte-menu/releases/download/v#{version}/ZteMenu-#{version}.zip"
   name "ZTE Menu"
