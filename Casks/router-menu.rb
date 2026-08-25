@@ -1,6 +1,6 @@
 cask "router-menu" do
-  version "0.4.1"
-  sha256 "97cef11cae1ac4834b2d7403c3f29957be9405a69276b0ecfb54f040bc04b543"
+  version "0.5.0"
+  sha256 "368cebf05dfa9402abbcd55d16a77f1bed10a7c9d97af4430bd0d4df6598b456"
 
   url "https://github.com/RadnoK/router-menu/releases/download/v#{version}/ZteMenu-#{version}.zip"
   name "Router Menu"
