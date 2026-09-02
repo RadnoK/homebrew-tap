@@ -1,6 +1,6 @@
 cask "router-menu" do
-  version "0.5.2"
-  sha256 "d32068e76042a4ab95a56ab5488925bbda78efd4718175495fd724e6d7b80cd1"
+  version "0.5.3"
+  sha256 "c2100e1416fd46ff0671a1656738b3f632ae86a253c5292c114abd0e7ea1f42c"
 
   url "https://github.com/RadnoK/router-menu/releases/download/v#{version}/RouterMenu-#{version}.zip"
   name "Router Menu"
