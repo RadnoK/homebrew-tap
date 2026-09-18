@@ -7,7 +7,7 @@ cask "router-menu" do
   desc "Menu bar status for ZTE modems and ASUS routers"
   homepage "https://github.com/RadnoK/router-menu"
 
-  depends_on macos: :sonoma
+  depends_on macos: :tahoe
 
   auto_updates true
 
