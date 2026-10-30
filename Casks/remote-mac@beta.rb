@@ -1,6 +1,6 @@
 cask "remote-mac@beta" do
-  version "1.1.2"
-  sha256 "0e2962b68b55b0a04e092f6acb7cbf3484ab2e605289d8c8ddf5b27276b61b73"
+  version "1.2.0-beta.4"
+  sha256 "7ccb92e8ce73e4552b39a283cf8e93ee912284d40b8d920d4f57deaac736f26b"
 
   url "https://github.com/RadnoK/remote-mac/releases/download/v#{version}/RemoteMac-#{version}.zip"
   name "RemoteMac Beta"
