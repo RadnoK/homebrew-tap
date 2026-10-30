@@ -1,6 +1,6 @@
 cask "remote-mac" do
-  version "1.1.0"
-  sha256 "7ba1c6b3a917c3deb7f166cbba7e86dfec631e4403073fdbff8d9bf6b9f55e78"
+  version "1.1.1"
+  sha256 "6441d148fe4f1393dc5f010a3b7cf610c49648897ea150f8dca73929278c3f59"
 
   url "https://github.com/RadnoK/remote-mac/releases/download/v#{version}/RemoteMac-#{version}.zip"
   name "RemoteMac"
